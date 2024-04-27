@@ -24,7 +24,7 @@ pip install nltk
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/english-dictionary.git
+git clone https://github.com/Amirkolo/Python-Projects/edit/main/Dictionary/readME.md
 ```
 
 2. Navigate to the project directory:
